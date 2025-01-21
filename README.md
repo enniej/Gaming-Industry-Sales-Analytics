@@ -84,7 +84,7 @@ Analysis of sales across:
 
 ## Dashboard & Visualizations
 
-![Sales Analysis Dashboard](images/dashboard.png)
+![Gaming Industry Sales Dashboard](images/gaming_industry_dashboard.png)
 
 ### Dashboard Components
 1. Sum of Total Sales by Name
